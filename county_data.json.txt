@@ -1,0 +1,1091 @@
+﻿{
+  "counties": {
+    "Nairobi": {
+      "population": 4397073,
+      "registered_voters_2022": 2600000,
+      "youth_percentage": 72,
+      "results_2017": {
+        "Kenyatta": 61.2,
+        "Odinga": 37.5,
+        "turnout": 68.4
+      },
+      "results_2022": {
+        "Ruto": 46.8,
+        "Odinga": 52.1,
+        "turnout": 58.3
+      },
+      "prediction_2027": {
+        "projected_voters": 3100000,
+        "new_youth_voters": 500000,
+        "likely_turnout": 62,
+        "trend": "Competitive/Swing",
+        "swing_potential": "Very High"
+      }
+    },
+    "Kiambu": {
+      "population": 2417735,
+      "registered_voters_2022": 1450000,
+      "youth_percentage": 68,
+      "results_2017": {
+        "Kenyatta": 92.6,
+        "Odinga": 7.0,
+        "turnout": 83.7
+      },
+      "results_2022": {
+        "Ruto": 65.2,
+        "Odinga": 33.8,
+        "turnout": 72.5
+      },
+      "prediction_2027": {
+        "projected_voters": 1650000,
+        "new_youth_voters": 200000,
+        "likely_turnout": 70,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Nakuru": {
+      "population": 2162202,
+      "registered_voters_2022": 1300000,
+      "youth_percentage": 66,
+      "results_2017": {
+        "Kenyatta": 78.3,
+        "Odinga": 20.4,
+        "turnout": 76.8
+      },
+      "results_2022": {
+        "Ruto": 71.2,
+        "Odinga": 27.5,
+        "turnout": 69.4
+      },
+      "prediction_2027": {
+        "projected_voters": 1500000,
+        "new_youth_voters": 200000,
+        "likely_turnout": 68,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Kakamega": {
+      "population": 1867579,
+      "registered_voters_2022": 1050000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 28.4,
+        "Odinga": 70.8,
+        "turnout": 74.5
+      },
+      "results_2022": {
+        "Ruto": 38.6,
+        "Odinga": 60.2,
+        "turnout": 67.3
+      },
+      "prediction_2027": {
+        "projected_voters": 1200000,
+        "new_youth_voters": 150000,
+        "likely_turnout": 70,
+        "trend": "Competitive",
+        "swing_potential": "High"
+      }
+    },
+    "Bungoma": {
+      "population": 1670570,
+      "registered_voters_2022": 950000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 22.1,
+        "Odinga": 77.2,
+        "turnout": 76.8
+      },
+      "results_2022": {
+        "Ruto": 62.31,
+        "Odinga": 35.35,
+        "turnout": 69.5
+      },
+      "prediction_2027": {
+        "projected_voters": 1100000,
+        "new_youth_voters": 150000,
+        "likely_turnout": 71,
+        "trend": "Kenya Kwanza shift",
+        "swing_potential": "High"
+      }
+    },
+    "Meru": {
+      "population": 1545714,
+      "registered_voters_2022": 850000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 95.2,
+        "Odinga": 4.3,
+        "turnout": 82.3
+      },
+      "results_2022": {
+        "Ruto": 80.87,
+        "Odinga": 17.48,
+        "turnout": 75.8
+      },
+      "prediction_2027": {
+        "projected_voters": 1000000,
+        "new_youth_voters": 150000,
+        "likely_turnout": 76,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Kilifi": {
+      "population": 1453787,
+      "registered_voters_2022": 820000,
+      "youth_percentage": 69,
+      "results_2017": {
+        "Kenyatta": 15.2,
+        "Odinga": 83.5,
+        "turnout": 64.3
+      },
+      "results_2022": {
+        "Ruto": 28.4,
+        "Odinga": 70.2,
+        "turnout": 58.7
+      },
+      "prediction_2027": {
+        "projected_voters": 1000000,
+        "new_youth_voters": 180000,
+        "likely_turnout": 60,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Machakos": {
+      "population": 1421932,
+      "registered_voters_2022": 850000,
+      "youth_percentage": 67,
+      "results_2017": {
+        "Kenyatta": 68.5,
+        "Odinga": 30.2,
+        "turnout": 79.4
+      },
+      "results_2022": {
+        "Ruto": 52.3,
+        "Odinga": 46.5,
+        "turnout": 71.2
+      },
+      "prediction_2027": {
+        "projected_voters": 1000000,
+        "new_youth_voters": 150000,
+        "likely_turnout": 72,
+        "trend": "Swing county",
+        "swing_potential": "Very High"
+      }
+    },
+    "Kisii": {
+      "population": 1266860,
+      "registered_voters_2022": 720000,
+      "youth_percentage": 65,
+      "results_2017": {
+        "Kenyatta": 18.5,
+        "Odinga": 80.8,
+        "turnout": 78.2
+      },
+      "results_2022": {
+        "Ruto": 25.3,
+        "Odinga": 73.5,
+        "turnout": 70.5
+      },
+      "prediction_2027": {
+        "projected_voters": 850000,
+        "new_youth_voters": 130000,
+        "likely_turnout": 72,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Mombasa": {
+      "population": 1208333,
+      "registered_voters_2022": 700000,
+      "youth_percentage": 70,
+      "results_2017": {
+        "Kenyatta": 18.5,
+        "Odinga": 80.2,
+        "turnout": 62.3
+      },
+      "results_2022": {
+        "Ruto": 40.45,
+        "Odinga": 57.28,
+        "turnout": 55.8
+      },
+      "prediction_2027": {
+        "projected_voters": 850000,
+        "new_youth_voters": 150000,
+        "likely_turnout": 58,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Narok": {
+      "population": 1157873,
+      "registered_voters_2022": 680000,
+      "youth_percentage": 66,
+      "results_2017": {
+        "Kenyatta": 72.5,
+        "Odinga": 26.8,
+        "turnout": 75.3
+      },
+      "results_2022": {
+        "Ruto": 47.24,
+        "Odinga": 52.02,
+        "turnout": 68.5
+      },
+      "prediction_2027": {
+        "projected_voters": 820000,
+        "new_youth_voters": 140000,
+        "likely_turnout": 70,
+        "trend": "Competitive/Swing",
+        "swing_potential": "Very High"
+      }
+    },
+    "Kajiado": {
+      "population": 1117840,
+      "registered_voters_2022": 650000,
+      "youth_percentage": 67,
+      "results_2017": {
+        "Kenyatta": 68.2,
+        "Odinga": 30.5,
+        "turnout": 73.8
+      },
+      "results_2022": {
+        "Ruto": 47.91,
+        "Odinga": 51.16,
+        "turnout": 66.2
+      },
+      "prediction_2027": {
+        "projected_voters": 780000,
+        "new_youth_voters": 130000,
+        "likely_turnout": 68,
+        "trend": "Competitive/Swing",
+        "swing_potential": "Very High"
+      }
+    },
+    "Uasin Gishu": {
+      "population": 1163186,
+      "registered_voters_2022": 680000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 92.8,
+        "Odinga": 6.5,
+        "turnout": 82.1
+      },
+      "results_2022": {
+        "Ruto": 95.2,
+        "Odinga": 4.1,
+        "turnout": 78.9
+      },
+      "prediction_2027": {
+        "projected_voters": 780000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 80,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Kisumu": {
+      "population": 1155574,
+      "registered_voters_2022": 650000,
+      "youth_percentage": 65,
+      "results_2017": {
+        "Kenyatta": 1.2,
+        "Odinga": 98.5,
+        "turnout": 81.2
+      },
+      "results_2022": {
+        "Ruto": 4.5,
+        "Odinga": 94.8,
+        "turnout": 68.9
+      },
+      "prediction_2027": {
+        "projected_voters": 750000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 72,
+        "trend": "Opposition stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Migori": {
+      "population": 1116436,
+      "registered_voters_2022": 630000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 8.3,
+        "Odinga": 91.2,
+        "turnout": 79.5
+      },
+      "results_2022": {
+        "Ruto": 12.5,
+        "Odinga": 86.8,
+        "turnout": 70.2
+      },
+      "prediction_2027": {
+        "projected_voters": 740000,
+        "new_youth_voters": 110000,
+        "likely_turnout": 72,
+        "trend": "Opposition stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Homa Bay": {
+      "population": 1131950,
+      "registered_voters_2022": 640000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 5.8,
+        "Odinga": 93.8,
+        "turnout": 80.3
+      },
+      "results_2022": {
+        "Ruto": 9.2,
+        "Odinga": 90.1,
+        "turnout": 71.5
+      },
+      "prediction_2027": {
+        "projected_voters": 750000,
+        "new_youth_voters": 110000,
+        "likely_turnout": 73,
+        "trend": "Opposition stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Kitui": {
+      "population": 1136187,
+      "registered_voters_2022": 650000,
+      "youth_percentage": 66,
+      "results_2017": {
+        "Kenyatta": 42.5,
+        "Odinga": 56.8,
+        "turnout": 76.2
+      },
+      "results_2022": {
+        "Ruto": 38.5,
+        "Odinga": 60.3,
+        "turnout": 68.5
+      },
+      "prediction_2027": {
+        "projected_voters": 760000,
+        "new_youth_voters": 110000,
+        "likely_turnout": 70,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Murang'a": {
+      "population": 1056640,
+      "registered_voters_2022": 650000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 97.2,
+        "Odinga": 2.3,
+        "turnout": 85.5
+      },
+      "results_2022": {
+        "Ruto": 81.5,
+        "Odinga": 17.2,
+        "turnout": 73.2
+      },
+      "prediction_2027": {
+        "projected_voters": 760000,
+        "new_youth_voters": 110000,
+        "likely_turnout": 74,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Trans Nzoia": {
+      "population": 990341,
+      "registered_voters_2022": 520000,
+      "youth_percentage": 66,
+      "results_2017": {
+        "Kenyatta": 68.5,
+        "Odinga": 30.2,
+        "turnout": 76.8
+      },
+      "results_2022": {
+        "Ruto": 46.16,
+        "Odinga": 52.36,
+        "turnout": 69.7
+      },
+      "prediction_2027": {
+        "projected_voters": 620000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 71,
+        "trend": "Competitive/Swing",
+        "swing_potential": "High"
+      }
+    },
+    "Siaya": {
+      "population": 993183,
+      "registered_voters_2022": 560000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 3.2,
+        "Odinga": 96.5,
+        "turnout": 82.5
+      },
+      "results_2022": {
+        "Ruto": 6.8,
+        "Odinga": 92.5,
+        "turnout": 72.8
+      },
+      "prediction_2027": {
+        "projected_voters": 650000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 74,
+        "trend": "Opposition stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Makueni": {
+      "population": 987653,
+      "registered_voters_2022": 550000,
+      "youth_percentage": 65,
+      "results_2017": {
+        "Kenyatta": 38.5,
+        "Odinga": 60.8,
+        "turnout": 77.3
+      },
+      "results_2022": {
+        "Ruto": 35.2,
+        "Odinga": 63.8,
+        "turnout": 69.5
+      },
+      "prediction_2027": {
+        "projected_voters": 640000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 71,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Turkana": {
+      "population": 926976,
+      "registered_voters_2022": 480000,
+      "youth_percentage": 68,
+      "results_2017": {
+        "Kenyatta": 52.3,
+        "Odinga": 46.8,
+        "turnout": 58.2
+      },
+      "results_2022": {
+        "Ruto": 32.33,
+        "Odinga": 66.47,
+        "turnout": 52.5
+      },
+      "prediction_2027": {
+        "projected_voters": 580000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 55,
+        "trend": "Opposition shift",
+        "swing_potential": "High"
+      }
+    },
+    "Busia": {
+      "population": 893681,
+      "registered_voters_2022": 500000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 18.5,
+        "Odinga": 80.8,
+        "turnout": 75.2
+      },
+      "results_2022": {
+        "Ruto": 28.5,
+        "Odinga": 70.3,
+        "turnout": 67.8
+      },
+      "prediction_2027": {
+        "projected_voters": 590000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 69,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Mandera": {
+      "population": 867457,
+      "registered_voters_2022": 420000,
+      "youth_percentage": 70,
+      "results_2017": {
+        "Kenyatta": 68.5,
+        "Odinga": 30.2,
+        "turnout": 48.5
+      },
+      "results_2022": {
+        "Ruto": 55.3,
+        "Odinga": 43.5,
+        "turnout": 42.8
+      },
+      "prediction_2027": {
+        "projected_voters": 520000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 45,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Kericho": {
+      "population": 901777,
+      "registered_voters_2022": 510000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 88.5,
+        "Odinga": 10.8,
+        "turnout": 80.2
+      },
+      "results_2022": {
+        "Ruto": 92.3,
+        "Odinga": 6.8,
+        "turnout": 75.5
+      },
+      "prediction_2027": {
+        "projected_voters": 600000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 76,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Nandi": {
+      "population": 885711,
+      "registered_voters_2022": 500000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 90.2,
+        "Odinga": 9.2,
+        "turnout": 81.5
+      },
+      "results_2022": {
+        "Ruto": 93.8,
+        "Odinga": 5.5,
+        "turnout": 77.2
+      },
+      "prediction_2027": {
+        "projected_voters": 590000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 78,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Kwale": {
+      "population": 866820,
+      "registered_voters_2022": 480000,
+      "youth_percentage": 68,
+      "results_2017": {
+        "Kenyatta": 22.5,
+        "Odinga": 76.8,
+        "turnout": 62.5
+      },
+      "results_2022": {
+        "Ruto": 35.2,
+        "Odinga": 63.5,
+        "turnout": 56.8
+      },
+      "prediction_2027": {
+        "projected_voters": 580000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 58,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Bomet": {
+      "population": 875689,
+      "registered_voters_2022": 490000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 89.5,
+        "Odinga": 9.8,
+        "turnout": 82.3
+      },
+      "results_2022": {
+        "Ruto": 94.2,
+        "Odinga": 5.1,
+        "turnout": 78.5
+      },
+      "prediction_2027": {
+        "projected_voters": 580000,
+        "new_youth_voters": 90000,
+        "likely_turnout": 79,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Garissa": {
+      "population": 841353,
+      "registered_voters_2022": 400000,
+      "youth_percentage": 71,
+      "results_2017": {
+        "Kenyatta": 72.5,
+        "Odinga": 26.8,
+        "turnout": 45.2
+      },
+      "results_2022": {
+        "Ruto": 58.5,
+        "Odinga": 40.2,
+        "turnout": 40.5
+      },
+      "prediction_2027": {
+        "projected_voters": 500000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 42,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Wajir": {
+      "population": 781263,
+      "registered_voters_2022": 360000,
+      "youth_percentage": 72,
+      "results_2017": {
+        "Kenyatta": 75.2,
+        "Odinga": 23.8,
+        "turnout": 42.5
+      },
+      "results_2022": {
+        "Ruto": 62.3,
+        "Odinga": 36.5,
+        "turnout": 38.2
+      },
+      "prediction_2027": {
+        "projected_voters": 460000,
+        "new_youth_voters": 100000,
+        "likely_turnout": 40,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Low"
+      }
+    },
+    "Nyeri": {
+      "population": 759164,
+      "registered_voters_2022": 480000,
+      "youth_percentage": 61,
+      "results_2017": {
+        "Kenyatta": 96.8,
+        "Odinga": 2.8,
+        "turnout": 84.2
+      },
+      "results_2022": {
+        "Ruto": 75.3,
+        "Odinga": 23.5,
+        "turnout": 71.8
+      },
+      "prediction_2027": {
+        "projected_voters": 550000,
+        "new_youth_voters": 70000,
+        "likely_turnout": 72,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Baringo": {
+      "population": 666763,
+      "registered_voters_2022": 380000,
+      "youth_percentage": 65,
+      "results_2017": {
+        "Kenyatta": 85.2,
+        "Odinga": 13.8,
+        "turnout": 75.5
+      },
+      "results_2022": {
+        "Ruto": 90.5,
+        "Odinga": 8.5,
+        "turnout": 70.2
+      },
+      "prediction_2027": {
+        "projected_voters": 450000,
+        "new_youth_voters": 70000,
+        "likely_turnout": 71,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Nyandarua": {
+      "population": 638289,
+      "registered_voters_2022": 400000,
+      "youth_percentage": 62,
+      "results_2017": {
+        "Kenyatta": 94.5,
+        "Odinga": 5.2,
+        "turnout": 82.8
+      },
+      "results_2022": {
+        "Ruto": 78.2,
+        "Odinga": 20.5,
+        "turnout": 72.5
+      },
+      "prediction_2027": {
+        "projected_voters": 470000,
+        "new_youth_voters": 70000,
+        "likely_turnout": 73,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "West Pokot": {
+      "population": 621241,
+      "registered_voters_2022": 340000,
+      "youth_percentage": 67,
+      "results_2017": {
+        "Kenyatta": 82.5,
+        "Odinga": 16.8,
+        "turnout": 68.5
+      },
+      "results_2022": {
+        "Ruto": 88.3,
+        "Odinga": 10.8,
+        "turnout": 63.2
+      },
+      "prediction_2027": {
+        "projected_voters": 410000,
+        "new_youth_voters": 70000,
+        "likely_turnout": 64,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Nyamira": {
+      "population": 605576,
+      "registered_voters_2022": 350000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 15.2,
+        "Odinga": 84.2,
+        "turnout": 79.5
+      },
+      "results_2022": {
+        "Ruto": 22.5,
+        "Odinga": 76.8,
+        "turnout": 71.2
+      },
+      "prediction_2027": {
+        "projected_voters": 410000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 73,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Kirinyaga": {
+      "population": 610411,
+      "registered_voters_2022": 350000,
+      "youth_percentage": 62,
+      "results_2017": {
+        "Kenyatta": 98.6,
+        "Odinga": 1.0,
+        "turnout": 87.1
+      },
+      "results_2022": {
+        "Ruto": 78.2,
+        "Odinga": 20.8,
+        "turnout": 70.1
+      },
+      "prediction_2027": {
+        "projected_voters": 410000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 71,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Embu": {
+      "population": 608599,
+      "registered_voters_2022": 360000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 92.5,
+        "Odinga": 6.8,
+        "turnout": 81.5
+      },
+      "results_2022": {
+        "Ruto": 76.8,
+        "Odinga": 22.3,
+        "turnout": 72.8
+      },
+      "prediction_2027": {
+        "projected_voters": 420000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 73,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Low"
+      }
+    },
+    "Vihiga": {
+      "population": 590013,
+      "registered_voters_2022": 330000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 22.5,
+        "Odinga": 76.8,
+        "turnout": 76.2
+      },
+      "results_2022": {
+        "Ruto": 32.5,
+        "Odinga": 66.3,
+        "turnout": 68.5
+      },
+      "prediction_2027": {
+        "projected_voters": 390000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 70,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Laikipia": {
+      "population": 518560,
+      "registered_voters_2022": 310000,
+      "youth_percentage": 65,
+      "results_2017": {
+        "Kenyatta": 72.5,
+        "Odinga": 26.8,
+        "turnout": 74.5
+      },
+      "results_2022": {
+        "Ruto": 65.2,
+        "Odinga": 33.8,
+        "turnout": 67.2
+      },
+      "prediction_2027": {
+        "projected_voters": 370000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 68,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Marsabit": {
+      "population": 459785,
+      "registered_voters_2022": 250000,
+      "youth_percentage": 69,
+      "results_2017": {
+        "Kenyatta": 65.2,
+        "Odinga": 33.8,
+        "turnout": 52.5
+      },
+      "results_2022": {
+        "Ruto": 50.98,
+        "Odinga": 48.23,
+        "turnout": 48.2
+      },
+      "prediction_2027": {
+        "projected_voters": 310000,
+        "new_youth_voters": 60000,
+        "likely_turnout": 50,
+        "trend": "Competitive/Swing",
+        "swing_potential": "High"
+      }
+    },
+    "Elgeyo Marakwet": {
+      "population": 454480,
+      "registered_voters_2022": 260000,
+      "youth_percentage": 64,
+      "results_2017": {
+        "Kenyatta": 88.5,
+        "Odinga": 10.8,
+        "turnout": 78.5
+      },
+      "results_2022": {
+        "Ruto": 92.8,
+        "Odinga": 6.5,
+        "turnout": 74.2
+      },
+      "prediction_2027": {
+        "projected_voters": 310000,
+        "new_youth_voters": 50000,
+        "likely_turnout": 75,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Tharaka Nithi": {
+      "population": 393177,
+      "registered_voters_2022": 230000,
+      "youth_percentage": 63,
+      "results_2017": {
+        "Kenyatta": 94.2,
+        "Odinga": 5.3,
+        "turnout": 82.5
+      },
+      "results_2022": {
+        "Ruto": 89.18,
+        "Odinga": 9.26,
+        "turnout": 76.8
+      },
+      "prediction_2027": {
+        "projected_voters": 270000,
+        "new_youth_voters": 40000,
+        "likely_turnout": 77,
+        "trend": "Kenya Kwanza stronghold",
+        "swing_potential": "Very Low"
+      }
+    },
+    "Taita Taveta": {
+      "population": 340671,
+      "registered_voters_2022": 200000,
+      "youth_percentage": 66,
+      "results_2017": {
+        "Kenyatta": 32.5,
+        "Odinga": 66.8,
+        "turnout": 68.5
+      },
+      "results_2022": {
+        "Ruto": 42.3,
+        "Odinga": 56.5,
+        "turnout": 61.2
+      },
+      "prediction_2027": {
+        "projected_voters": 240000,
+        "new_youth_voters": 40000,
+        "likely_turnout": 62,
+        "trend": "Opposition leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Tana River": {
+      "population": 315943,
+      "registered_voters_2022": 170000,
+      "youth_percentage": 68,
+      "results_2017": {
+        "Kenyatta": 58.5,
+        "Odinga": 40.2,
+        "turnout": 55.2
+      },
+      "results_2022": {
+        "Ruto": 43.87,
+        "Odinga": 54.34,
+        "turnout": 50.5
+      },
+      "prediction_2027": {
+        "projected_voters": 210000,
+        "new_youth_voters": 40000,
+        "likely_turnout": 52,
+        "trend": "Competitive/Swing",
+        "swing_potential": "High"
+      }
+    },
+    "Samburu": {
+      "population": 310327,
+      "registered_voters_2022": 170000,
+      "youth_percentage": 67,
+      "results_2017": {
+        "Kenyatta": 72.5,
+        "Odinga": 26.8,
+        "turnout": 58.5
+      },
+      "results_2022": {
+        "Ruto": 40.06,
+        "Odinga": 59.04,
+        "turnout": 53.2
+      },
+      "prediction_2027": {
+        "projected_voters": 210000,
+        "new_youth_voters": 40000,
+        "likely_turnout": 55,
+        "trend": "Opposition shift",
+        "swing_potential": "Very High"
+      }
+    },
+    "Isiolo": {
+      "population": 268002,
+      "registered_voters_2022": 150000,
+      "youth_percentage": 69,
+      "results_2017": {
+        "Kenyatta": 68.5,
+        "Odinga": 30.2,
+        "turnout": 52.5
+      },
+      "results_2022": {
+        "Ruto": 54.29,
+        "Odinga": 44.43,
+        "turnout": 48.2
+      },
+      "prediction_2027": {
+        "projected_voters": 190000,
+        "new_youth_voters": 40000,
+        "likely_turnout": 50,
+        "trend": "Kenya Kwanza leaning",
+        "swing_potential": "Medium"
+      }
+    },
+    "Lamu": {
+      "population": 143920,
+      "registered_voters_2022": 80000,
+      "youth_percentage": 67,
+      "results_2017": {
+        "Kenyatta": 58.5,
+        "Odinga": 40.2,
+        "turnout": 55.2
+      },
+      "results_2022": {
+        "Ruto": 44.89,
+        "Odinga": 51.34,
+        "turnout": 50.5
+      },
+      "prediction_2027": {
+        "projected_voters": 100000,
+        "new_youth_voters": 20000,
+        "likely_turnout": 52,
+        "trend": "Competitive/Swing",
+        "swing_potential": "High"
+      }
+    }
+  },
+  "regional_trends": {
+    "Mt_Kenya": {
+      "counties": ["Kiambu", "Murang'a", "Nyeri", "Kirinyaga", "Nyandarua", "Embu", "Tharaka Nithi"],
+      "trend": "Shifting from traditional Jubilee stronghold, declining margins for Kenya Kwanza",
+      "key_factor": "Youth unemployment, economic concerns, and generational shift"
+    },
+    "Rift_Valley": {
+      "counties": ["Uasin Gishu", "Nakuru", "Nandi", "Kericho", "Bomet", "Elgeyo Marakwet", "Baringo", "West Pokot"],
+      "trend": "Strong Kenya Kwanza support, likely to maintain in 2027",
+      "key_factor": "Ruto's home region, strong ethnic loyalty, but some counties becoming competitive"
+    },
+    "Nyanza": {
+      "counties": ["Kisumu", "Siaya", "Homa Bay", "Migori", "Kisii", "Nyamira"],
+      "trend": "Opposition stronghold, but youth may shift patterns slightly",
+      "key_factor": "Historical Odinga family support, but generational change and economic issues"
+    },
+    "Western": {
+      "counties": ["Kakamega", "Bungoma", "Vihiga", "Busia"],
+      "trend": "Highly competitive, major battleground for 2027 with significant shifts from 2017",
+      "key_factor": "Split loyalties, economic issues, youth vote crucial, Bungoma's dramatic shift"
+    },
+    "Coast": {
+      "counties": ["Mombasa", "Kilifi", "Kwale", "Taita Taveta", "Tana River", "Lamu"],
+      "trend": "Opposition leaning but increasingly competitive, youth seeking change",
+      "key_factor": "Economic marginalization, infrastructure development, youth unemployment"
+    },
+    "Eastern": {
+      "counties": ["Machakos", "Kitui", "Makueni", "Embu", "Meru", "Tharaka Nithi"],
+      "trend": "Mixed region - Meru strongly Kenya Kwanza, Kamba counties swing/opposition leaning",
+      "key_factor": "Kamba vote split, youth demographic shift, economic concerns"
+    },
+    "North Eastern": {
+      "counties": ["Garissa", "Wajir", "Mandera"],
+      "trend": "Traditionally government-leaning, but lower turnout and youth factor unpredictable",
+      "key_factor": "Security issues, marginalization, low voter turnout, youth disengagement"
+    },
+    "Nairobi": {
+      "counties": ["Nairobi"],
+      "trend": "Most competitive county, youth vote decisive, cosmopolitan and issue-based",
+      "key_factor": "High youth population (72%), unemployment, cost of living, diverse demographics"
+    }
+  },
+  "summary_statistics": {
+    "total_counties": 47,
+    "kenya_kwanza_strongholds": 15,
+    "opposition_strongholds": 12,
+    "competitive_swing_counties": 20,
+    "total_projected_2027_voters": 27820000,
+    "total_new_youth_voters": 5700000,
+    "average_youth_percentage": 65.7,
+    "highest_youth_counties": ["Wajir", "Nairobi", "Garissa", "Mandera", "Kilifi"],
+    "key_battlegrounds_2027": ["Nairobi", "Machakos", "Kajiado", "Narok", "Kakamega", "Trans Nzoia", "Marsabit", "Samburu", "Turkana", "Tana River", "Lamu"]
+  }
+}

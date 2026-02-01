@@ -1,0 +1,49 @@
+﻿# Project Summary
+The Kenya Elections Analysis Dashboard is an interactive data visualization tool designed to analyze historical trends in Kenya's presidential elections from 2002 to 2022 while forecasting the 2027 elections. It serves political analysts, researchers, and the general public by providing insights into voter behavior, turnout trends, and demographic shifts that may influence future elections, thereby enhancing the understanding of Kenya's electoral landscape.
+
+# Project Module Description
+The dashboard comprises several functional sections:
+- **Overview**: Executive summary with key metrics and trends.
+- **Historical Results**: Displays election results from 2002 to 2022 with interactive charts.
+- **Turnout Trends**: Analyzes voter turnout patterns and growth in registered voters.
+- **Regional Patterns**: Geographic voting distributions, particularly from the 2002 election.
+- **County Analysis**: Examines voting behavior and turnout at the county level.
+- **County Predictions 2027**: Predictions for county-level results in the upcoming election based on demographic trends.
+- **2027 National Predictions**: Comprehensive analysis and predictions for the national election.
+
+# Directory Tree
+```
+streamlit_template/
+│
+├── app.py                   # Main application file for the Streamlit dashboard
+├── election_data.json       # JSON file containing historical election data and predictions
+├── county_data.json         # JSON file containing detailed data for all 47 Kenyan counties
+├── requirements.txt         # List of dependencies required to run the application
+├── template_config.json      # Configuration file for template settings (not currently utilized)
+└── todo.md                  # Development plan and tasks for the project
+```
+
+# File Description Inventory
+- **app.py**: Contains the Streamlit application code, which sets up the dashboard layout, handles data loading, and implements interactive visualizations.
+- **election_data.json**: Stores historical election results, voter turnout statistics, regional voting patterns, and predictions for the 2027 elections.
+- **county_data.json**: Contains comprehensive data for all 47 counties, including historical results and 2027 predictions.
+- **requirements.txt**: Lists the dependencies necessary for the project, including Streamlit, Plotly, and Pandas.
+- **template_config.json**: Configuration settings for the dashboard template (currently not in use).
+- **todo.md**: A development plan outlining project objectives, data structure, and tasks for implementation.
+
+# Technology Stack
+- **Streamlit**: For building the interactive web application.
+- **Plotly**: For creating dynamic visualizations and charts.
+- **Pandas**: For data manipulation and analysis.
+- **JSON**: For data storage and retrieval.
+
+# Usage
+To set up and run the Kenya Elections Analysis Dashboard, follow these steps:
+1. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+2. Run the Streamlit application:
+   ```
+   streamlit run app.py
+   ```

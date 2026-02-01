@@ -1,0 +1,99 @@
+﻿{
+  "elections": {
+    "2002": {
+      "year": 2002,
+      "registered_voters": 10451150,
+      "votes_cast": 5975910,
+      "turnout": 57.18,
+      "candidates": [
+        {"name": "Mwai Kibaki", "party": "NARC", "votes": 3724524, "percentage": 62.3},
+        {"name": "Uhuru Kenyatta", "party": "KANU", "votes": 1828962, "percentage": 30.6},
+        {"name": "Simeon Nyachae", "party": "FORD-People", "votes": 388434, "percentage": 6.5}
+      ],
+      "regional": {
+        "Central": {"Kibaki": 71.8, "Kenyatta": 27.4, "Nyachae": 0.4},
+        "Coast": {"Kibaki": 65.9, "Kenyatta": 28.3, "Nyachae": 5.2},
+        "Eastern": {"Kibaki": 75.4, "Kenyatta": 23.6, "Nyachae": 0.6},
+        "Nairobi": {"Kibaki": 76.8, "Kenyatta": 20.7, "Nyachae": 2.2},
+        "North Eastern": {"Kibaki": 34.0, "Kenyatta": 65.6, "Nyachae": 0.1},
+        "Nyanza": {"Kibaki": 60.2, "Kenyatta": 6.5, "Nyachae": 32.1},
+        "Rift Valley": {"Kibaki": 42.1, "Kenyatta": 53.6, "Nyachae": 4.0},
+        "Western": {"Kibaki": 78.5, "Kenyatta": 19.3, "Nyachae": 1.4}
+      }
+    },
+    "2007": {
+      "year": 2007,
+      "registered_voters": 14296180,
+      "votes_cast": 9900000,
+      "turnout": 69.23,
+      "candidates": [
+        {"name": "Mwai Kibaki", "party": "PNU", "votes": 4584721, "percentage": 46.3},
+        {"name": "Raila Odinga", "party": "ODM", "votes": 4352993, "percentage": 44.0}
+      ]
+    },
+    "2013": {
+      "year": 2013,
+      "registered_voters": 14352533,
+      "votes_cast": 12330028,
+      "turnout": 85.91,
+      "candidates": [
+        {"name": "Uhuru Kenyatta", "party": "Jubilee", "votes": 6173433, "percentage": 50.07},
+        {"name": "Raila Odinga", "party": "CORD", "votes": 5340546, "percentage": 43.31}
+      ]
+    },
+    "2017": {
+      "year": 2017,
+      "registered_voters": 19611423,
+      "votes_cast": 15593039,
+      "turnout": 79.51,
+      "candidates": [
+        {"name": "Uhuru Kenyatta", "party": "Jubilee", "votes": 8203290, "percentage": 54.27},
+        {"name": "Raila Odinga", "party": "NASA", "votes": 6762224, "percentage": 44.74}
+      ],
+      "rerun": {
+        "turnout": 38.84,
+        "votes_cast": 7616217
+      }
+    },
+    "2022": {
+      "year": 2022,
+      "registered_voters": 22120458,
+      "votes_cast": 14326751,
+      "turnout": 64.77,
+      "candidates": [
+        {"name": "William Ruto", "party": "Kenya Kwanza", "votes": 7176141, "percentage": 50.49},
+        {"name": "Raila Odinga", "party": "Azimio", "votes": 6942930, "percentage": 48.85}
+      ]
+    }
+  },
+  "predictions_2027": {
+    "new_voters": 5700000,
+    "youth_percentage": 65,
+    "total_projected_voters": 27820458,
+    "factors": [
+      "Youth demographic shift (65% of voters aged 20-34)",
+      "Social media influence vs traditional media",
+      "Economic conditions and reforms in 2026",
+      "Coalition formations in 2026",
+      "Lower historical youth turnout patterns",
+      "Digital connectivity (80% smartphone access)"
+    ],
+    "scenarios": [
+      {
+        "name": "High Youth Turnout",
+        "turnout": 72,
+        "description": "If youth voters mobilize effectively"
+      },
+      {
+        "name": "Moderate Turnout",
+        "turnout": 65,
+        "description": "Similar to 2022 patterns"
+      },
+      {
+        "name": "Low Youth Engagement",
+        "turnout": 58,
+        "description": "If youth voters remain apathetic"
+      }
+    ]
+  }
+}
